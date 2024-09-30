@@ -55,3 +55,8 @@ This project demonstrates an AI-powered food recognition tool using images as in
 ## Project Resources
 - **Presentation Slides:** A presentation detailing the project's goals, workflow, models, and outputs is included in the repository.
 - **Video Walkthrough:** A short video walkthrough of the project is also uploaded to the repository.
+
+## Hugging Face Space
+The project is also available on Hugging Face Space. Explore the project using the link below:
+
+- [Bilingual Food Recognition and Nutrition Info Tool on Hugging Face](https://huggingface.co/spaces/Abduuu/Bilingual_Food_Recognition_and_Nutrition_Info_Tool)
