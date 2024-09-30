@@ -22,6 +22,9 @@ This project demonstrates an AI-powered food recognition tool using images as in
 3. **Nutritionix API:**
    - This API provides detailed nutritional data for various food items, including macronutrient values, calories, sugars, fiber, and serving sizes.
 
+4. **Gradio:**
+   - An easy-to-use tool that provides a user-friendly interface.
+
 ## Pipeline Explanation
 1. **Food Recognition:** The `Salesforce/blip-vqa-base` model processes the uploaded image and identifies the food item by answering the question: "What is the food or the drink in the image?".
 
