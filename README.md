@@ -1,7 +1,7 @@
 # Bilingual Food Recognition and Nutrition Information Tool
 
 ## Project Overview
-This project demonstrates an AI-powered food recognition tool using images as input and provides detailed nutritional information. The tool supports both English and Arabic languages, allowing users to upload an image of food or a drink, and receive nutritional information in their selected language. The application uses several machine learning models and APIs, integrated through Gradio to create an interactive interface.
+This project demonstrates an AI-powered food recognition tool using images as input and provides detailed nutritional information. The tool supports both English and Arabic languages, allowing users to upload an image of food or a drink, and receive nutritional information in their selected language.
 
 ## Expected Outputs
 - The tool outputs a detailed nutritional breakdown, including:
