@@ -64,5 +64,5 @@ The project is also available on Hugging Face Space. Explore the project using t
 ## Video Walkthrough
 A video walkthrough the project code and how it works:
 
-- [Video Walkthrough](https://www.youtube.com/watch?v=q6TMN5AvQXs)
+- [Video Walkthrough](https://youtu.be/hox0dtcjm1A)
 
